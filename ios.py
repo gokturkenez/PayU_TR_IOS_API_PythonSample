@@ -1,5 +1,5 @@
 '''
-Project: PayU Turkey Card Info v2 Python3 Sample Code
+Project: PayU Turkey IOS API Python3 Sample Code
 Author: Göktürk Enez
 '''
 # Importing required libraries.
